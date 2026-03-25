@@ -1,0 +1,5 @@
+📊 Price Prediction & Discount Analysis
+This project focuses on analyzing product pricing and discount strategies using the Zepto grocery dataset. It aims to extract meaningful insights from real-world e-commerce data and apply machine learning techniques to predict product prices.
+The workflow includes data preprocessing, exploratory data analysis (EDA), feature engineering, and model building. A Linear Regression model is trained using features such as product category, ratings, reviews, availability, and discount percentage to accurately predict product prices.
+In addition to price prediction, the project performs discount analysis to understand how promotional offers impact pricing patterns and customer behavior. It also includes a utility function to estimate optimal discount percentages required to reach a target price.
+The project is implemented using Python and popular libraries like Pandas, NumPy, Matplotlib, and Scikit-learn in a Jupyter Notebook/Google Colab environment. Overall, it demonstrates how data-driven approaches can help businesses optimize pricing strategies and improve decision-making in the e-commerce domain.
